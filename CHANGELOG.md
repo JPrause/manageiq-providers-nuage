@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
 
+## Unreleased as of Sprint 88 ending 2018-06-18
+
+### Added
+- Reset API headers after each call [(#99)](https://github.com/ManageIQ/manageiq-providers-nuage/pull/99)
+- Inventory FloatingIps [(#97)](https://github.com/ManageIQ/manageiq-providers-nuage/pull/97)
+- Inventory L2 Domain entity (Nuage) as CloudSubnet model (MIQ) [(#94)](https://github.com/ManageIQ/manageiq-providers-nuage/pull/94)
+- Cleanup config/settings.yaml after changes in UI [(#89)](https://github.com/ManageIQ/manageiq-providers-nuage/pull/89)
+
 ## Unreleased as of Sprint 87 ending 2018-06-04
 
 ### Added
